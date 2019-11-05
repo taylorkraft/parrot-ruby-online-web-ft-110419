@@ -5,7 +5,6 @@ def parrot
   "Squawk!"
 end
 
-parrot
 
 def parrot
   return "Squawk!"
