@@ -11,3 +11,7 @@ def parrot
 end
 
 parrot
+
+parrot(phrase)
+puts #{phrase}
+end
