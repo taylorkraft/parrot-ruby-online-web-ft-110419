@@ -5,15 +5,3 @@ def parrot
 end
 
 parrot
-
-def parrot
-  return "Squawk!"
-end
-
-parrot
-
-def parrot(phrase)
-  puts #{phrase}
-end
-
-parrot("Pretty bird!")
