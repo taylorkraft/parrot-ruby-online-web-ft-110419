@@ -5,3 +5,9 @@ def parrot
 end
 
 parrot
+
+def parrot
+  return "Squawk!"
+end
+
+parrot
